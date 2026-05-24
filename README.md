@@ -26,13 +26,15 @@ El juego desafía al jugador a cruzar zonas llenas de enemigos patrullando y obs
 
 ---
 
-## 📸 Screenshots (Pruebas de Aceptación)
+## 📸 Funcionamiento del juego (Prueba de Aceptacion)
+<img width="975" height="693" alt="image" src="https://github.com/user-attachments/assets/8162cbbd-7767-4243-97b4-f18010b4d5e3" />
+<img width="966" height="694" alt="image" src="https://github.com/user-attachments/assets/ac082f9d-137f-445f-8147-ca4fb4c9c692" />
+<img width="983" height="710" alt="image" src="https://github.com/user-attachments/assets/88175108-790b-436c-95d1-513058a690f0" />
+<img width="978" height="685" alt="image" src="https://github.com/user-attachments/assets/821fd942-cbe2-4bd1-8420-b2873e3b3891" />
+<img width="966" height="685" alt="image" src="https://github.com/user-attachments/assets/e9cc56fe-302f-43ea-ae20-11036f1b9e73" />
+<img width="850" height="653" alt="image" src="https://github.com/user-attachments/assets/ca4ed42e-b4ef-4b0c-aedb-903beeecefa6" />
 
-> **Nota para el desarrollador:** Arrastra y suelta tus imágenes de las partidas en las secciones de abajo para que GitHub las incruste automáticamente.
 
-| Nivel de Físicas Complejas (La Hélice) | Exploración y Colisiones |
-| :---: | :---: |
-| *(Arrastra tu imagen de level4.txt aquí)* | *(Arrastra tu imagen de level11.txt aquí)* |
 
 ---
 
