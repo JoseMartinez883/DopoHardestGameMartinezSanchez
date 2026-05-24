@@ -10,6 +10,10 @@
 
 <br>
 
+## 🎮 Autores
+- Jose Alejandro Martinez Arias ( @JoseMartinez883 )
+- Yazid Sanchez
+  
 ## 🎮 Sobre el Proyecto
 **Dopo's Hardest Game V2** es el Proyecto Final para la asignatura de **Programación Orientada a Objetos**. Más allá de ser un simple juego, es una demostración empírica de cómo aplicar ingeniería de software para resolver lógicas complejas (físicas, colisiones, persistencia y renderizado) manteniendo un código altamente mantenible y escalable.
 
