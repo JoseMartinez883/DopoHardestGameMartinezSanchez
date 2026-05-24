@@ -1,0 +1,21 @@
+TIME 50
+# Piso de ajedrez en el corredor central
+FLOOR CHECKERED 250 200 300 200
+# Bordes exteriores
+WALL 0 0 800 150 false
+WALL 0 450 800 150 false
+WALL 0 150 100 300 false
+WALL 700 150 100 300 false
+# Muros superiores e inferiores del corredor
+WALL 250 150 300 50 false
+WALL 250 400 300 50 false
+# Muros de cuello de botella (crean el paso en zigzag)
+WALL 100 150 150 130 false
+# Zonas
+ZONE INITIAL 100 150 150 300
+ZONE FINAL 550 150 150 300
+# 4 enemigos verticales (como en la imagen original)
+ENEMY BASIC 310 210 V 3.5
+ENEMY BASIC 365 360 V 3.5
+ENEMY BASIC 430 210 V 3.5
+ENEMY BASIC 490 360 V 3.5

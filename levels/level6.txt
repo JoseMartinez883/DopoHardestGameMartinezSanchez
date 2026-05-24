@@ -1,0 +1,50 @@
+TIME 180
+
+# Pisos ajedrezados
+FLOOR CHECKERED 200 100 150 300
+FLOOR CHECKERED 450 100 150 300
+FLOOR CHECKERED 200 400 400 100
+FLOOR CHECKERED 100 350 100 100
+FLOOR CHECKERED 600 350 100 100
+
+# Zonas seguras
+ZONE INITIAL 200 100 150 100
+ZONE FINAL 450 100 150 100
+
+# Muros Exteriores e Interiores (Delimitadores)
+WALL 200 90 150 10 true
+WALL 450 90 150 10 true
+WALL 190 100 10 250 true
+WALL 600 100 10 250 true
+WALL 350 100 100 300 true
+WALL 100 340 100 10 true
+WALL 90 350 10 100 true
+WALL 100 450 100 10 true
+WALL 190 450 10 50 true
+WALL 600 340 100 10 true
+WALL 700 350 10 100 true
+WALL 600 450 100 10 true
+WALL 600 450 10 50 true
+WALL 190 500 420 10 true
+
+# Monedas obligatorias (Amarillas)
+COIN YELLOW 140 390
+COIN YELLOW 650 390
+COIN YELLOW 400 440
+COIN YELLOW 525 250
+
+# Monedas de Skins en zonas accesibles/seguras
+COIN SKIN BLUE 220 120
+COIN SKIN GREEN 220 440
+COIN SKIN RED 580 440
+
+# Enemigos pasillo izquierdo (Horizontales estándar - solo 2)
+ENEMY BASIC 200 240 H 4.0
+ENEMY BASIC 330 330 H 4.0
+
+# Enemigos pasillo inferior (Verticales estándar - solo 1)
+ENEMY BASIC 400 450 V 3.5
+
+# Enemigos pasillo derecho (Horizontales estándar - solo 2)
+ENEMY BASIC 450 240 H 4.0
+ENEMY BASIC 580 330 H 4.0

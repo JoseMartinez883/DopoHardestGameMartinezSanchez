@@ -1,0 +1,23 @@
+TIME 60
+FLOOR CHECKERED 200 150 400 300
+
+# Paredes exteriores (VISIBLES = true)
+WALL 150 100 500 50 true
+WALL 150 450 500 50 true
+WALL 150 150 50 300 true
+WALL 600 150 50 300 true
+
+# Obstáculo central visible que bloquea el camino directo
+WALL 380 200 40 200 true
+
+# Zonas seguras
+ZONE INITIAL 200 150 80 300
+ZONE FINAL 520 150 80 300
+
+# Monedas a recolectar
+COIN YELLOW 320 220
+COIN YELLOW 480 380
+
+# Enemigos básicos patrullando para dificultar el paso
+ENEMY BASIC 330 200 V 3.0
+ENEMY BASIC 450 300 V 3.0
